@@ -1,0 +1,62 @@
+.main-header {
+    background: url(images/background1.gif);
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.quotes1{
+    padding-top: 300px;
+}
+
+.sidenav {
+    background: url(images/sidenav2.jpg);
+    min-height: 200px;
+    background-size: cover;
+    background-position:top right 5px;
+}
+
+.sidenav-footer {
+    padding-top: 300px;
+}
+
+.section-about {
+    background: url(images/sidenav1.png);
+    min-height: 200px;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: right 10px;
+}
+
+.btn-extend {
+    display: flex;
+    width: 100%;
+}
+
+.section-profile {
+    background: url(images/s1.png);
+    min-height: 200px;
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: bottom right 10px;
+}
+
+.section-suzyvideo {
+    background-color: rgb(245, 42, 160);
+}
+
+.section-moviestats {
+    background: url(images/letswatch.png);
+    min-height: 200px;
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: bottom right 10px;
+}
+
+.i1 {
+    width: 410px;
+    height: 350px;
+}
+
+
